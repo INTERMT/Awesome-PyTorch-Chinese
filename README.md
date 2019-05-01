@@ -2,10 +2,10 @@
  
 ## 目录：
 
-* [PyTorch学习教程、手册](#PyTorch学习教程-手册)
+* [PyTorch学习教程、手册](#PyTorch学习教程手册)
 * [PyTorch视频教程](#PyTorch视频教程)
-* [NLP&PyTorch实战](#NLP-PyTorch实战)
-* [CV&PyTorch实战](#CV-PyTorch实战)
+* [NLP&PyTorch实战](#NLPPyTorch实战)
+* [CV&PyTorch实战](#CVPyTorch实战)
 * [PyTorch论文推荐](#PyTorch论文推荐)
 * [Pytorch书籍推荐](#PyTorch书籍推荐)
 
