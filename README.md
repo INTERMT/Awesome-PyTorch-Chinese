@@ -11,7 +11,7 @@
 
 ## PyTorch学习教程、手册
  
-* [PyTorch英文版官方手册](https://pytorch.org/tutorials/) （需翻墙）：对于英文比较好的同学，非常推荐该PyTorch官方文档，一步步带你从入门到精通。该文档详细的介绍了从基础知识到如何使用PyTorch构建深层神经网络，以及PyTorch语法和一些高质量的案例。
+* [PyTorch英文版官方手册](https://pytorch.org/tutorials/)：对于英文比较好的同学，非常推荐该PyTorch官方文档，一步步带你从入门到精通。该文档详细的介绍了从基础知识到如何使用PyTorch构建深层神经网络，以及PyTorch语法和一些高质量的案例。
 * [PyTorch中文官方文档](https://pytorch-cn.readthedocs.io/zh/latest/)：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
 * [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial)：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
 * [开源书籍](https://github.com/zergtant/pytorch-handbook)：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
