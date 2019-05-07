@@ -15,7 +15,7 @@
 * [PyTorch中文官方文档](https://pytorch-cn.readthedocs.io/zh/latest/)：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
 * [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial)：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
 * [开源书籍](https://github.com/zergtant/pytorch-handbook)：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
-* [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn)：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：http://pytorchchina.com。
+* [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn)：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：[http://pytorchchina.com](http://pytorchchina.com) 。
 
 ## PyTorch视频教程
 * [B站PyTorch视频教程](https://www.bilibili.com/video/av31914351/)：首推的是B站中近期点击率非常高的一个PyTorch视频教程，虽然视频内容只有八集，但讲的深入浅出，十分精彩。只是没有中文字幕，小伙伴们是该练习一下英文了...
