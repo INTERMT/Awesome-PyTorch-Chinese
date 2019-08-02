@@ -18,7 +18,7 @@
 * [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn)：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：[http://pytorchchina.com](http://pytorchchina.com) 。
 
 ## PyTorch视频教程
-* [B站PyTorch视频教程](https://www.bilibili.com/video/av31914351/)：首推的是B站中近期点击率非常高的一个PyTorch视频教程，虽然视频内容只有八集，但讲的深入浅出，十分精彩。只是没有中文字幕，小伙伴们是该练习一下英文了...
+* [B站PyTorch视频教程](https://www.bilibili.com/video/av44164429)：首推的是B站中近期点击率非常高的一个PyTorch视频教程，虽然视频内容只有八集，但讲的深入浅出，十分精彩。只是没有中文字幕，小伙伴们是该练习一下英文了...
 * [国外视频教程](https://www.youtube.com/watch?v=SKq-pmkekTk)：另外一个国外大佬的视频教程，在YouTube上有很高的点击率，也是纯英文的视频，有没有觉得外国的教学视频不管是多么复杂的问题都能讲的很形象很简单？
 * [莫烦](https://morvanzhou.github.io/tutorials/machine-learning/torch/)：相信莫烦老师大家应该很熟了，他的Python、深度学习的系列视频在B站和YouTube上均有很高的点击率，该PyTorch视频教程也是去年刚出不久，推荐给新手朋友。
 * [101学院](https://www.bilibili.com/video/av49008640/)：人工智能101学院的PyTorch系列视频课程，讲的比较详细、覆盖的知识点也比较广，感兴趣的朋友可以试听一下。
