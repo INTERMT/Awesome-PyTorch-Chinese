@@ -35,6 +35,7 @@
 * [Fairseq](https://github.com/pytorch/fairseq)：Fairseq是一个序列建模工具包，允许研究人员和开发人员为翻译、总结、语言建模和其他文本生成任务训练自定义模型，它还提供了各种Seq2seq模型的参考实现。该github存储库包含有关入门、训练新模型、使用新模型和任务扩展Fairseq的说明，对该模型感兴趣的小伙伴可以点击上方链接学习。
 * [Quick-nlp](https://github.com/outcastofmusic/quick-nlp)：Quick-nlp是一个深受fast.ai库启发的深入学习Nlp库。它遵循与Fastai相同的API，并对其进行了扩展，允许快速、轻松地运行NLP模型。
 * [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
+* [UER-py](https://github.com/dbiir/UER-py)：这是对BERT、GPT等一系列预训练模型的PyTorch实现。UER-py提供了丰富的编码器、目标任务等模块，支持对已有预训练模型的快速实现和改进。此外，这个项目提供了大量基于不同语料、编码器、目标任务的中文预训练模型。这些预训练模型在一系列下游任务上显著的超过了Google BERT，或是以更高的效率取得了和Google BERT相当的表现。
  
 ## CV&PyTorch实战
 * [pytorch vision](https://github.com/pytorch/vision)：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
